@@ -1,0 +1,25 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/movie-recommender.png",
+            "title": "Movie Recommender - Recommendation System",
+            "bodyText": "- A Movie Recommender web app made using **FastAPI**  and **ReactJS** for movie enthusiasts. People can type the movies they like and get a list of movies, which may be similar to the preferences.\n",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/BipulMani/recommendation-system"
+                },
+                {
+                    "text": "Live",
+                    "href": "http://movie-recommender.herokuapp.com"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "FastAPI",
+                "ReactJS",
+                "Gunicorn"
+            ]
+        }
+    ]
+}

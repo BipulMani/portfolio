@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "Oct 2021 - Sep 2025",
+            "cardTitle": "M.Sc, Data Science",
+            "cardSubtitle":"RWTH Aachen University, Aachen",
+            "cardDetailedText": "Thesis: Industrial Anomaly Detection Using Attentive Student-Teacher Models"
+        },
+        {
+            "title": "Jul 2023 - Dec 2023",
+            "cardTitle": "M.Tech, Artificial Intelligence",
+            "cardSubtitle":"Kathmandu University, Dhulikhel",
+            "cardDetailedText": "Exchange Semester"
+        },
+        {
+            "title": "Apr 2017 - Sep 2021",
+            "cardTitle": "B.Sc, Computer Science",
+            "cardSubtitle":"Johann Wolfgang Goethe University, Frankfurt am Main",
+            "cardDetailedText": "Thesis: Feature Comparison of BERT Transfer Learning with Autoencoder Language Models"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "experiences": [
+        {
+            "title": "Data Scientist",
+            "subtitle": "adesso SE",
+            "workType": "Working Student",
+            "workDescription": [
+                "Built prototype for Retrieval-Augmented Generation (RAG) using OCR, LLM",
+                "Developed a website offering LLM services",
+                "Worked on a tool, used for internal Staffing using LLM and matching algorithms",
+                "Created document classification tools for legal/insurance texts"
+            ],
+            "dateText": "01/2021 – 06/2025"
+        },
+        {
+            "title": "IT-Support",
+            "subtitle": "Hochschulrechenzentrum - Goethe University",
+            "workType": "Working Student",
+            "workDescription": [
+                "Client Support",
+                "Monitoring and Fixing Problems of Clients",
+                "IT-Security",
+                "Granting Permissions for Software"
+            ],
+            "dateText": "07/2018 – 03/2019"
+        }
+    ]
+}

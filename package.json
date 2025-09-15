@@ -54,7 +54,8 @@
     "react-error-overlay": "6.0.9"
   },
   "resolutions": {
-    "react-error-overlay": "6.0.9"
+    "react-error-overlay": "6.0.9",
+    "react-reveal/react": "^18.3.1"
   },
   "description": "## A minimal portfolio template for Developers!",
   "main": ".eslintrc.js",
